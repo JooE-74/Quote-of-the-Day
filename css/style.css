@@ -1,0 +1,25 @@
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: cursive;
+    color: red;
+}
+h3{
+    color: navy;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    cursor: pointer ;
+}
+
+p{
+    font-size: 35px;
+}
+
